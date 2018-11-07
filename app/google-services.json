@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "552093120169",
+    "firebase_url": "https://bitmaster-de17a.firebaseio.com",
+    "project_id": "bitmaster-de17a",
+    "storage_bucket": "bitmaster-de17a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552093120169:android:fe9836213e60721e",
+        "android_client_info": {
+          "package_name": "com.bitmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552093120169-d8hf9b696ppjubvpdm6e3ivr9mqjmmrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitmaster",
+            "certificate_hash": "6e9bda6ce5be41487ba4d14a2deab19071231278"
+          }
+        },
+        {
+          "client_id": "552093120169-37f18jkssp1dp3ol5ujkn534a23pbl70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEAlih2aywqm5MatUmC5SuLGqH0_GxF5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552093120169-37f18jkssp1dp3ol5ujkn534a23pbl70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
